@@ -9,3 +9,6 @@ x86:
   - [Hard Disk Drives](Storage/Analog%20Recording/HDD/README.md)
 - [Read-Only Memory](Storage/ROM/README.md)
   - [Solid-State Drives](Storage/ROM/SSD/README.md)
+
+## Performance
+- [Benchmarking](Performance/Benchmarking.md)
