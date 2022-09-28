@@ -16,7 +16,7 @@ Prefix | OP | Mod R/M | SIB | Disp | Imm
 - 03 4C BB 66
   OP(6) | d(1) | w(1) | Mod(2) | Reg/OP(3) | R/M(3) | Scale(2) | index(3) | Base(3) | Disp(8)
   --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-  0 (ADD) | 1 (目的) | 1 (宽) | 2 (基址+比例变址+偏移量寻址) | 1 (ECX) | 100 | 2 | 7 (EDI) | 3 (EBX) | 66
+  0 (ADD) | 1 (目的) | 1 (宽) | 1 (基址+比例变址+偏移量寻址) | 1 (ECX) | 100 | 2 | 7 (EDI) | 3 (EBX) | 66
 
 	`ADD ECX, [EBX+EDI<<2+66H]`
 
@@ -77,6 +77,18 @@ GS | 65
 Mod(2) | Reg/OP(3) | R/M(3)
 --- | --- | ---
 寻址方式 | 寄存器/扩展操作码 | 操作数
+
+- Mod == 00
+  - R/M != 100 and R/M != 101: `[REG]`
+  - R/M == 100: `[SIB]`
+  - R/M == 101: `[disp32]`
+- Mod == 01
+  - R/M != 100: `[REG+disp8]`
+  - R/M == 100: `[SIB+disp8]`
+- Mod == 10
+  - R/M != 100: `[REG+disp32]`
+  - R/M == 100: `[SIB+disp32]`
+- Mod == 11: `REG`
 
 ## SIB
 Scale(2) | index(3) | Base(3)
