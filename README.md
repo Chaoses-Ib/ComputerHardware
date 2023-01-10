@@ -23,6 +23,9 @@
 ## Performance
 - [Benchmarking](Performance/Benchmarking.md)
 
+## Tools
+- [AIDA64](Tools/AIDA64.md)
+
 ## Virtualization
 ### Docker
 - [Containers](Virtualization/Docker/Containers.md)
