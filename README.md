@@ -1,5 +1,8 @@
 # Computer Hardware
 ## Processors
+- [Performance](Processors/Performance/README.md)
+  - [Benchmarking](Processors/Performance/Benchmarking.md)
+
 ### Instruction Set Architectures
 - [Assembly Language](Processors/ISAs/Assembly%20Language.md)
 - [Application Binary Interface](Processors/ISAs/ABI/README.md)
@@ -29,3 +32,9 @@
 ## Virtualization
 ### Docker
 - [Containers](Virtualization/Docker/Containers.md)
+
+## Information sources
+<details><summary>Blogs</summary>
+
+- [超能课堂，讲述我们身边的科技知识 - 超能网](https://www.expreview.com/ketang)
+</details>
