@@ -23,11 +23,11 @@
 - [Read-Only Memory](Storage/ROM/README.md)
   - [Solid-State Drives](Storage/ROM/SSD/README.md)
 
-## Performance
-- [Benchmarking](Performance/Benchmarking.md)
-
 ## Tools
 - [AIDA64](Tools/AIDA64.md)
+
+## [Performance](Performance/README.md)
+- [Benchmarking](Performance/Benchmarking.md)
 
 ## Virtualization
 ### Docker
