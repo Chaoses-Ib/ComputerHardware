@@ -29,6 +29,9 @@
 ## [Performance](Performance/README.md)
 - [Benchmarking](Performance/Benchmarking.md)
 
+## Power
+- [Advanced Configuration and Power Interface](Power/ACPI.md)
+
 ## Virtualization
 ### Docker
 - [Containers](Virtualization/Docker/Containers.md)
