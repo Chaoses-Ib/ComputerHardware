@@ -2,6 +2,7 @@
 ## Processors
 - [Performance](Processors/Performance/README.md)
   - [Benchmarking](Processors/Performance/Benchmarking.md)
+- [Tools](Tools/AIDA64.md)
 
 ### Instruction Set Architectures
 - [Assembly Language](Processors/ISAs/Assembly%20Language.md)
@@ -16,6 +17,8 @@
 
 ## Memory
 - [Cache](Memory/Cache.md)
+- DDR SDRAM
+  - [DDR5 SDRAM](Memory/DDR%20SDRAM/DDR5%20SDRAM.md)
 
 ## Storage
 - Analog Recording
