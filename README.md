@@ -2,7 +2,7 @@
 ## Processors
 - [Performance](Processors/Performance/README.md)
   - [Benchmarking](Processors/Performance/Benchmarking.md)
-- [Tools](Tools/AIDA64.md)
+- [Tools](Processors/Tools.md)
 
 ### Instruction Set Architectures
 - [Assembly Language](Processors/ISAs/Assembly%20Language.md)
@@ -34,10 +34,6 @@
 
 ## Power
 - [Advanced Configuration and Power Interface](Power/ACPI.md)
-
-## Virtualization
-### Docker
-- [Containers](Virtualization/Docker/Containers.md)
 
 ## Information sources
 <details><summary>Blogs</summary>
