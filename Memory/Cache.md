@@ -21,6 +21,6 @@ A **fully associative cache** consists of a single set (i.e., $E = {C\over B}$) 
 
 ![](images/Fully-associative-cache.png)
 
-Because the cache circuitry must search for many matching tags in parallel, it is difﬁcult and expensive to build an associative cache that is both large and fast. As a result, fully associative caches are only appropriate for small caches, such as the translation lookaside buffers (TLBs) in virtual memory systems that cache page table entries.[^csapp]
+Because the cache circuitry must search for many matching tags in parallel, it is difficult and expensive to build an associative cache that is both large and fast. As a result, fully associative caches are only appropriate for small caches, such as the translation lookaside buffers (TLBs) in virtual memory systems that cache page table entries.[^csapp]
 
 [^csapp]: Computer Systems：A Programmer's Perspective
