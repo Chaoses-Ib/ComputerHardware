@@ -1,4 +1,4 @@
-# Computer Hardware
+# [Computer Hardware](Computer%20Hardware.md)
 ## Processors
 - [Performance](Processors/Performance/README.md)
   - [Benchmarking](Processors/Performance/Benchmarking.md)
@@ -35,8 +35,9 @@
 ## Power
 - [Advanced Configuration and Power Interface](Power/ACPI.md)
 
-## Information sources
-<details><summary>Blogs</summary>
-
-- [超能课堂，讲述我们身边的科技知识 - 超能网](https://www.expreview.com/ketang)
-</details>
+## [Sensors](Sensors/README.md)
+- [Sensor Hubs](Sensors/Sensor%20Hubs.md)
+- [Accelerometers](Sensors/Accelerometers.md)
+- [Gyroscopes](Sensors/Gyroscopes.md)
+- Platforms
+  - [→Android](https://github.com/Chaoses-Ib/Linux/blob/main/Distributions/Android/Sensors/README.md)
