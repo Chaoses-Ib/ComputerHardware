@@ -1,4 +1,9 @@
 # [Computer Hardware](Computer%20Hardware.md)
+- [Performance](Performance/README.md)
+  - [Benchmarking](Performance/Benchmarking.md)
+- Tools
+  - [AIDA64](Tools/AIDA64.md)
+
 ## Processors
 - [Performance](Processors/Performance/README.md)
   - [Benchmarking](Processors/Performance/Benchmarking.md)
@@ -26,14 +31,14 @@
 - [Read-Only Memory](Storage/ROM/README.md)
   - [Solid-State Drives](Storage/ROM/SSD/README.md)
 
-## Tools
-- [AIDA64](Tools/AIDA64.md)
-
-## [Performance](Performance/README.md)
-- [Benchmarking](Performance/Benchmarking.md)
-
 ## Power
 - [Advanced Configuration and Power Interface](Power/ACPI.md)
+
+## [Human Interface Devices](Human/README.md)
+- [Keyboards](Human/Keyboards/README.md)
+- [Mice](Human/Mice/README.md)
+  - [Scroll Wheels](Human/Mice/Scroll%20Wheels.md)
+- [Trackballs](Human/Trackballs/README.md)
 
 ## [Sensors](Sensors/README.md)
 - [Sensor Hubs](Sensors/Sensor%20Hubs.md)
