@@ -35,10 +35,26 @@
 - [Advanced Configuration and Power Interface](Power/ACPI.md)
 
 ## [Human Interface Devices](Human/README.md)
-- [Keyboards](Human/Keyboards/README.md)
-- [Mice](Human/Mice/README.md)
-  - [Scroll Wheels](Human/Mice/Scroll%20Wheels.md)
-- [Trackballs](Human/Trackballs/README.md)
+- Hands
+  - [Keyboards](Human/Keyboards/README.md)
+  - [Mice](Human/Mice/README.md)
+    - [Scroll Wheels](Human/Mice/Scroll%20Wheels.md)
+  - [Trackballs](Human/Trackballs/README.md)
+  - [Touchpads](Human/Touchpads/README.md)
+  - [Touchscreens](Human/Touchscreen/README.md)
+  - [Graphics Tablets](Human/Graphics%20Tablets/README.md) 
+  - [Pointing Sticks](Human/Poingting%20Sticks/README.md)
+  - [Joysticks](Human/Joysticks/README.md)
+  - [Gamepads](Human/Gamepads/README.md)
+- Feet
+  - [Foot Pedals](Human/Foot%20Pedals/README.md)
+  - [Footmice](Human/Footmice/README.md)
+  - [Dance Pads](Human/Dance%20Pads/README.md)
+- Eyes
+  - [→Eye Tracks](https://github.com/Chaoses-Ib/VisualComputing/blob/main/Photography/Eye%20Trackers/README.md)
+- Throats
+  - [→Microphones](https://github.com/Chaoses-Ib/SoundComputing/blob/main/Recording/Microphones.md)
+- [→Webcams](https://github.com/Chaoses-Ib/VisualComputing/blob/main/Photography/Cameras/Webcams.md)
 
 ## [Sensors](Sensors/README.md)
 - [Sensor Hubs](Sensors/Sensor%20Hubs.md)
