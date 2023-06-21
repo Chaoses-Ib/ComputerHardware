@@ -37,6 +37,8 @@
 ## [Human Interface Devices](Human/README.md)
 - Hands
   - [Keyboards](Human/Keyboards/README.md)
+    - [Mechanical Keyboards](Human/Keyboards/Mechanical.md)
+    - [Capacitive Keyboards](Human/Keyboards/Capacitive.md)
   - [Mice](Human/Mice/README.md)
     - [Scroll Wheels](Human/Mice/Scroll%20Wheels.md)
   - [Trackballs](Human/Trackballs/README.md)
@@ -51,7 +53,7 @@
   - [Footmice](Human/Footmice/README.md)
   - [Dance Pads](Human/Dance%20Pads/README.md)
 - Eyes
-  - [→Eye Tracks](https://github.com/Chaoses-Ib/VisualComputing/blob/main/Photography/Eye%20Trackers/README.md)
+  - [→Eye Trackers](https://github.com/Chaoses-Ib/VisualComputing/blob/main/Photography/Eye%20Trackers/README.md)
 - Throats
   - [→Microphones](https://github.com/Chaoses-Ib/SoundComputing/blob/main/Recording/Microphones.md)
 - [→Webcams](https://github.com/Chaoses-Ib/VisualComputing/blob/main/Photography/Cameras/Webcams.md)
