@@ -4,6 +4,7 @@
 [#聚超值618征文#百图万字，618机械键盘最全选购攻略，附各价位值得购买键盘推荐-聚超值](https://best.pconline.com.cn/yuanchuang/13087606.html)
 
 - 2023-03 [求推荐个无线机械键盘 NGA玩家社区 P1](https://ngabbs.com/read.php?tid=35787270)
+- 2023-04 [求推荐一个无线机械键盘 178](https://nga.178.com/read.php?tid=35839943&rand=695)
 - 2023-06 [618 硬件推荐：值得关注的好键盘 - 少数派](https://sspai.com/post/80308)
 - 2023-06 [来了，来了，今年键盘到底怎么选，看这篇就够了丨饕餮的618机械键盘推荐清单_键盘_什么值得买](https://post.smzdm.com/p/aev2xe03/)
 
@@ -82,6 +83,8 @@ TTC：
 
 - [ROG Azoth](https://rog.asus.com/keyboards/keyboards/aura-rgb/rog-azoth-model/)
 
+  [Asus ROG Azoth Review | PCMag](https://www.pcmag.com/reviews/asus-rog-azoth)
+
   [ROG Azoth "夜魔" 客制化初体验 - 原创分享(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2483486-1-1.html)
 
   [原以为是青铜，没想到是王者 ROG夜魔真是个好东西 - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/forum.php?mod=viewthread&tid=2483679&mobile=no)
@@ -91,6 +94,11 @@ TTC：
   [回望评测室 篇五：堪比客制化——ROG夜魔三模无线键盘测评_键盘_什么值得买](https://post.smzdm.com/p/ao93m879/)
 
   [\[三模+Gasket+热插拔+75配列=半客制化？\] ROG夜魔机械键盘开箱 NGA玩家社区 P1](https://bbs.nga.cn/read.php?tid=34949663)
+
+  [入门既满配——ROG 夜魔三模无线键盘分享 - 原创分享(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/forum.php?mod=viewthread&tid=2504041&extra=page%3D1&mobile=no)
+
+  Layout:
+  - [Shift + End on Azoth? - Republic of Gamers Forum - 920139](https://rog-forum.asus.com/t5/gaming-keyboards/shift-end-on-azoth/td-p/920139)
 
   价格：
   - [大佬们，ROG 夜魔这个新键盘咋样？感觉用料、结构还带三模的整体价格还行呢，还带一堆信仰logo的润轴工具，值不值得下单？ - zFrontier 装备前线](https://www.zfrontier.com/app/flow/g0mPRv9YEqXb)

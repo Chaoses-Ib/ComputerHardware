@@ -39,6 +39,7 @@
   - [Keyboards](Human/Keyboards/README.md)
     - [Mechanical Keyboards](Human/Keyboards/Mechanical.md)
     - [Capacitive Keyboards](Human/Keyboards/Capacitive.md)
+    - [Magnetic Keyboards](Human/Keyboards/Magnetic.md)
   - [Mice](Human/Mice/README.md)
     - [Scroll Wheels](Human/Mice/Scroll%20Wheels.md)
   - [Trackballs](Human/Trackballs/README.md)

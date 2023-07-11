@@ -14,3 +14,5 @@
 [手腕救星还是烧钱摆件？聊聊人体工学键盘 - 少数派](https://sspai.com/post/67354)
 
 [分体工学键盘入门指南：配列选择、购买渠道与配置方法 ｜ 少数派会员 π+Prime](https://sspai.com/prime/story/split-ergo-kbd-brief-intro)
+
+[什么样的键盘长时间打字不累？](https://candylab.net/%E9%94%AE%E7%9B%98/niz/)
