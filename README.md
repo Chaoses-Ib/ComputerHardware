@@ -19,6 +19,8 @@
 - [Instruction Format](Processors/ISAs/x86/Instruction%20Format.md)
 - [General-Purpose Instructions](Processors/ISAs/x86/General-Purpose%20Instructions/README.md)
 - [Calling Conventions](Processors/ISAs/x86/Calling%20Conventions.md)
+- Memory
+  - [Memory Alignment](Processors/ISAs/x86/Memory/Alignment.md)
 
 ## Memory
 - [Cache](Memory/Cache.md)
