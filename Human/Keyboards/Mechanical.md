@@ -70,9 +70,15 @@ TTC：
     - ROG Strix Scope RX
     - ROG Strix Scope RX EVA Edition
     - ROG Strix Scope RX TKL Wireless Deluxe
-  - ROG Strix Scope II
+  - ROG Strix Scope II (2023-06-11)
     - ROG Strix Scope II RX
     - ROG Strix Scope II 96 Wireless
+
+    China: 2023-07-18
+
+    [【首发】ROG游侠2测评：可能是目前最好的98配列游戏键盘](https://www.zhihu.com/tardis/zm/art/644906757)
+
+    [ROG新旗舰 游侠2 98体验 新NX轴和OMIN技术好评！比夜魔更适合购买！\_键盘\_什么值得买](https://post.smzdm.com/p/axzr62o3/)
 
 - ROG Strix Flare
   - ROG Strix Flare
@@ -81,7 +87,7 @@ TTC：
   - ROG Strix Flare II
     - ROG Strix Flare II Animate
 
-- [ROG Azoth](https://rog.asus.com/keyboards/keyboards/aura-rgb/rog-azoth-model/)
+- [ROG Azoth](https://rog.asus.com/keyboards/keyboards/aura-rgb/rog-azoth-model/) (2023-01-19)
 
   [Asus ROG Azoth Review | PCMag](https://www.pcmag.com/reviews/asus-rog-azoth)
 
@@ -98,6 +104,7 @@ TTC：
   [入门既满配——ROG 夜魔三模无线键盘分享 - 原创分享(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/forum.php?mod=viewthread&tid=2504041&extra=page%3D1&mobile=no)
 
   Layout:
+  - [ROGAzothUtil: Remapping for ASUS ROG Azoth](https://github.com/Chaoses-Ib/ROGAzothUtil)
   - [Shift + End on Azoth? - Republic of Gamers Forum - 920139](https://rog-forum.asus.com/t5/gaming-keyboards/shift-end-on-azoth/td-p/920139)
 
   价格：
