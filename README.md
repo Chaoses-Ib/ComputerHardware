@@ -34,6 +34,9 @@
 - [Read-Only Memory](Storage/ROM/README.md)
   - [Solid-State Drives](Storage/ROM/SSD/README.md)
 
+## I/O
+- [Universal Serial Bus](IO/USB/README.md)
+
 ## Power
 - [Advanced Configuration and Power Interface](Power/ACPI.md)
 
