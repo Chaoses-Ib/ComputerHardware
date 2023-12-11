@@ -2,6 +2,8 @@
 [Wikipedia](https://en.wikipedia.org/wiki/Hyper-V)
 - 2008-06
 
+[可否用Win10自带的Hyper-V替换掉VMWare？ - 问题求助❓ - 小众软件官方论坛](https://meta.appinn.net/t/topic/50178?u=chaoses_ib)
+
 [分享一下我用 hyper-v 做的 nas 服务器，非常稳定省心，模块化，懒人福音 - V2EX](https://www.v2ex.com/t/1099343)
 
 ## Installation
