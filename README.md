@@ -54,3 +54,7 @@
 - [Gyroscopes](Sensors/Gyroscopes.md)
 - Platforms
   - [→Android](https://github.com/Chaoses-Ib/Linux/blob/main/Distributions/Android/Sensors/README.md)
+
+## [Cloud Computing](Cloud/README.md)
+- [Amazon Web Services](Cloud/AWS/README.md)
+- [Microsoft Azure](Cloud/Azure/README.md)
