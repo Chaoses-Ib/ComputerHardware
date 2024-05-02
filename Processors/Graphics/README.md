@@ -13,3 +13,19 @@ It is becoming increasingly common to use a **general purpose graphics processin
 - Hybrid graphics processing
 - General purpose GPU (GPGPU)
 - External GPU
+
+## Libraries
+### Python
+- [pytorch/pytorch: Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)
+
+- [taichi-dev/taichi: Productive & portable high-performance programming in Python.](https://github.com/taichi-dev/taichi)
+
+- [cupy/cupy: NumPy & SciPy for GPU](https://github.com/cupy/cupy)
+
+- [rapidsai/cudf: cuDF - GPU DataFrame Library](https://github.com/rapidsai/cudf)
+
+- CUDA-Python
+
+  [NVIDIA/cuda-python: CUDA Python Low-level Bindings](https://github.com/nvidia/cuda-python)
+
+  为什么 stars 这么少？
