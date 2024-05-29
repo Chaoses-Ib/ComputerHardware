@@ -19,6 +19,8 @@
 
 - GCP
 
+  [GCP谷歌云那些事：谈谈一用户7-18被倒扣一万余元 -- 苍穹の下](https://www.blueskyxn.com/202007/1697.html)
+
 - Vultr
 
 - Linode
@@ -40,6 +42,12 @@
   https://t.me/vps_reviews/159
 
 [Azure vs AWS Pricing: Comparing Apples to Apples](https://bluexp.netapp.com/blog/azure-vs-aws-pricing-comparing-apples-to-apples-azure-aws-cvo-blg)
+
+## China
+- 阿里云
+
+  [什么是抢占式实例及其应用场景和限制\_云服务器 ECS(ECS)-阿里云帮助中心](https://help.aliyun.com/zh/ecs/user-guide/overview-4)
+  - [阿里云抢占式实例服务器优缺点适用场景及收费标准 | 码笔记](https://www.mabiji.com/aliyun/qiangzhanshi.html)
 
 ### Japan
 - AWS
