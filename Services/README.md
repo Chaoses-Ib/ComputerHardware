@@ -1,5 +1,7 @@
-# Cloud Computing
+# Computing Services
 [Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing)
+
+Also known as **cloud computing**.
 
 - [NodeSeek](https://www.nodeseek.com/)
 - [VPS商家评论频道](https://t.me/vps_reviews)
