@@ -28,30 +28,7 @@
 ## Power
 - [Advanced Configuration and Power Interface](Power/ACPI.md)
 
-## [Human Interface Devices](Human/README.md)
-- Hands
-  - [Keyboards](Human/Keyboards/README.md)
-    - [Mechanical Keyboards](Human/Keyboards/Mechanical.md)
-    - [Capacitive Keyboards](Human/Keyboards/Capacitive.md)
-    - [Magnetic Keyboards](Human/Keyboards/Magnetic.md)
-  - [Mice](Human/Mice/README.md)
-    - [Scroll Wheels](Human/Mice/Scroll%20Wheels.md)
-  - [Trackballs](Human/Trackballs/README.md)
-  - [Touchpads](Human/Touchpads/README.md)
-  - [Touchscreens](Human/Touchscreen/README.md)
-  - [Graphics Tablets](Human/Graphics%20Tablets/README.md) 
-  - [Pointing Sticks](Human/Poingting%20Sticks/README.md)
-  - [Joysticks](Human/Joysticks/README.md)
-  - [Gamepads](Human/Gamepads/README.md)
-- Feet
-  - [Foot Pedals](Human/Foot%20Pedals/README.md)
-  - [Footmice](Human/Footmice/README.md)
-  - [Dance Pads](Human/Dance%20Pads/README.md)
-- Eyes
-  - [→Eye Trackers](https://github.com/Chaoses-Ib/VisualComputing/blob/main/Photography/Eye%20Trackers/README.md)
-- Throats
-  - [→Microphones](https://github.com/Chaoses-Ib/SoundComputing/blob/main/Recording/Microphones.md)
-- [→Webcams](https://github.com/Chaoses-Ib/VisualComputing/blob/main/Photography/Cameras/Webcams.md)
+## [→Human Interface Devices](https://github.com/Chaoses-Ib/PersonalComputing#human-interface-devices)
 
 ## [Sensors](Sensors/README.md)
 - [Sensor Hubs](Sensors/Sensor%20Hubs.md)
