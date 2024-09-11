@@ -3,12 +3,17 @@
 - Azure: [Azure Pipelines](#azure-pipelines)
 - GCP: [Cloud Build](#gcp-cloud-build)
 
-## [AWS CodeBuild](https://aws.amazon.com/codebuild/)
+## [GitHub Actions](https://docs.github.com/en/actions)
+
+## AWS
+### [AWS CodeBuild](https://aws.amazon.com/codebuild/)
 OS: Linux, Windows (EC2)
 
 [Prices](https://aws.amazon.com/codebuild/pricing/):
 - 100 min/month free
 - Windows: $0.018~$0.036/min
+
+### [Amazon AppStream](https://aws.amazon.com/appstream2/)
 
 ## [Azure Pipelines](https://azure.microsoft.com/en-us/products/devops/pipelines)
 OS: Linux, Windows, macOS
@@ -50,3 +55,28 @@ OS: Linux
 
 [machineType](https://cloud.google.com/build/docs/private-pools/private-pool-config-file-schema#machinetype)
 - [E2 machine series](https://cloud.google.com/compute/docs/general-purpose-machines#e2_machine_types)
+
+## China
+### 阿里云: [云效流水线 Flow](https://www.aliyun.com/product/yunxiao/flow)
+- [构建集群](https://help.aliyun.com/zh/yunxiao/user-guide/build-a-cluster)
+  - OS: Linux
+
+~~[移动研发平台 云构建](https://help.aliyun.com/document_detail/2847341.html)~~
+
+### 腾讯云: [CODING DevOps](https://cloud.tencent.com/product/coding)
+[CODING DevOps-文档中心-腾讯云](https://cloud.tencent.com/document/product/1726)
+
+[CODING DevOps 快速开始-持续集成-文档中心-腾讯云](https://cloud.tencent.com/document/product/1726/97052)
+
+CVM 按量计费：[巧用按量付费云服务器编译 openwrt 路由固件-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1867601)
+
+### 华为云: [编译构建服务](https://www.huaweicloud.com/special/info-cloudbuild.html)
+- OS: Linux, Windows, macOS
+- [约束与限制](https://support.huaweicloud.com/productdesc-codeci/cloudbuild_07_0006.html)
+- 执行机规格：2U8G、4U8G、8U16G、16U32G、16U64G
+  - 默认规格为 2U8G
+
+[编译构建 CodeArts Build\_华为云](https://support.huaweicloud.com/cloudbuild/index.html)
+
+### 京东云: [DevOps 编译构建](https://docs.jdcloud.com/cn/devops/ci)
+- OS: Linux
