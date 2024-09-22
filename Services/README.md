@@ -44,6 +44,7 @@ Dicussions:
 - [Hetzner: Dedicated Server, Cloud, Storage & Hosting](https://www.hetzner.com/)
   - [Datacenter](https://www.hetzner.com/unternehmen/rechenzentrum/)
     - [Falkenstein, Germany](http://116.202.99.88/)
+      - 电信丢包较为严重
     - Finland
       - 2022-03 [Hetzner 芬兰的网络很一般啊-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://hostloc.com/thread-978072-1-1.html)
       - 2024-02 [hetzner芬兰赫尔辛基小鸡简测 -- Ypkin'Blog](https://blog.passall.us/archives/1050)
@@ -104,6 +105,8 @@ Dicussions:
   - AMD Ryzen 5950X 16C/32T-128G 2TB-NVMe $150/mo
   - VPS
     - AMD Ryzen 7950X 4C4G 100G-NVMe 10Gb-5TB 20Gb/200Gb/1Tb-DDoS $24/mo
+      - 补货：~20天/次
+        - 2024-08-03, 08-24, 09-12
       - 6G 150G-NVMe 10Gb-7TB $36/mo
   - [ToS](https://spartanhost.org/tos)
     - Note allowed
@@ -126,6 +129,13 @@ Dicussions:
     [斯巴达家可以DDwin吗？会不会封鸡啊-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://hostloc.com/thread-936322-1-1.html)
     </details>
   - DDoS
+    - 20Gb
+      - 其实跟没有防御一样的，我测试不到10G的udp就给打黑洞了
+    - 200Gb
+      - 入站会走洛杉矶，用谷歌 DNS 需要 30ms，可以改成 1.1.1.1/1.0.0.1
+      - 不会黑洞，如果量很大的话会红，不打了就恢复了
+      - L4基本打不动了，除非他一直拿很大流量一直压你，这个成本就非常高了，但L7防护还是要自己做
+      - 10元的 set up fee
     - 2022-01 [斯巴达200G防御也被干死了。。。-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://hostloc.com/thread-955175-1-1.html)
     - 2023-02 [斯巴达的20Gb DDoS 防御就是个笑话-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://hostloc.com/thread-1142313-1-1.html)
       - > 20G防御基本可以忽略吧，被打会黑洞2小时，200G防御属于中等偏上**会黑洞1小时（只讨论防御的话斯巴达的200G防御要好过于市面上大多数的高防）。
@@ -136,10 +146,13 @@ Dicussions:
   - VirtFusion
   - [全球主机监控 - 国内外VPS、云服务器的库存监控和优惠信息](https://stock.hostmonit.com/spartanhostPKS)
   - DHCP 可能有问题，需要自己纠正信息才能联网
-  - 22、3389 端口可能被墙
+  - IP 可以不频繁免费更换，大约一月一次
+    - 22、3389 端口可能被墙
+    - 2023-01 [斯巴达换ip要钱吗？-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://91ai.net/thread-1122305-1-1.html)
 
   Data centers:
   - Seattle: AS4837, 180ms ([Looking Glass](http://lg.sea.spartanhost.net/))
+    - 晚高峰时仍然有部分地方会丢包，并且单线程下载只有 200KB/s
     - DDoS: 20Gb, 200Gb $3/mo for dedicated server, $4/mo for VPS
     - 2022-11 [spartanhost斯巴达vps真的那么好吗？简单测评下spartanhost的2022年黑五5.5折款VPS](https://www.zhujiceping.com/56441.html)
     - 2023-09 [spartanhost：斯巴达VPS还是一如既往的稳吗？西雅图机房2023年最新性能和网络等测评 | VPS测评](https://vpsceping.org/1270.html)
