@@ -154,12 +154,22 @@ Dicussions:
   - Seattle: AS4837, 180ms ([Looking Glass](http://lg.sea.spartanhost.net/))
     - 晚高峰时仍然有部分地方会丢包，并且单线程下载只有 200KB/s
     - DDoS: 20Gb, 200Gb $3/mo for dedicated server, $4/mo for VPS
+    - Wowrack
     - 2022-11 [spartanhost斯巴达vps真的那么好吗？简单测评下spartanhost的2022年黑五5.5折款VPS](https://www.zhujiceping.com/56441.html)
     - 2023-09 [spartanhost：斯巴达VPS还是一如既往的稳吗？西雅图机房2023年最新性能和网络等测评 | VPS测评](https://vpsceping.org/1270.html)
     - 2024-07 [斯巴达这几天不太稳定啊](https://www.nodeseek.com/post-130231-1)
     - 2024-08 [斯巴达西雅图好像线路优化了，不知道是不是暂时的](https://www.nodeseek.com/post-143638-1)
+    - 2024-10 [黑五有没有斯巴达西雅图同机房的小鸡可以买？](https://www.nodeseek.com/post-182908-1)
+
+    [\[CatServer\] 斯巴达西雅图优化线路VPS (5950X或EPYC 7502)](https://www.nodeseek.com/post-187249-1)
+
   - Dallas：Tb 级 DDoS 防护，但线路一般 ([Looking Glass](https://lg.dal.spartanhost.net/))
     - [斯巴达/抗攻击VPS/主要看看达拉斯的线路/达拉斯VPS测评 | 求VPS](https://www.qiuvps.com/1979.html)
+
+  - Ashburn
+    - 2024-11 [斯巴达-新上线阿什本机房AMD Ryzen 9950X](https://www.nodeseek.com/post-199344-1)
+    - 2024-11 [【又测又评】性能怪兽，抗打巨人：斯巴达阿什本 9950X 4.8刀每月 现在还有货](https://www.nodeseek.com/post-200705-1)
+      - > 西雅图以前之所以溢价高，是因为5年前优化线路资源是很稀缺的，toC的很少，价格也非常昂贵。现在都2025了，9929 cmin2 cn2gia一抓一大把，西雅图也就失去了溢价的基础了，性能上还比不过达拉斯和阿什本，达拉斯和阿什本可是有祖师爷级的高防。有些高价收了西雅图的或者希望能高价出西雅图的人肯定是会反对的
 
   ```md
   支持支付方式：
@@ -240,6 +250,13 @@ Dicussions:
   - 2024-08 [其实没必要高溢价买斯巴达-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://hostloc.com/thread-1338900-1-1.html)
   - 2024-08 [\[一千收鸡\] spartanhost-斯巴达"黑五"西雅图 amd 5950x 4C4G 126刀/年](https://www.nodeseek.com/post-153422-1)
     - > 这款溢价最低1000，还不一定有人出
+  - 2024-10 [新人提问，斯巴达到底怎么样？](https://www.nodeseek.com/post-183903-1)
+  - 2024-11 [斯巴达抢手的原因是什么？4](https://www.nodeseek.com/post-199136-1)
+    - > 因为稳定线路好，很多人愿意花钱买省心少折腾
+  - 2024-11 [斯巴达黑五最新消息-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://hostloc.com/thread-1366322-1-1.html)
+    - > 只有达拉斯和阿什本，只有普通线路
+  - 2024-11 [刚斯巴达达拉斯上货了](https://www.nodeseek.com/post-203829-1)
+    - > 阿什本AMD 9950X 达拉斯7950X，阿什本性能更好，而且线路相对来说好一点
 
 - [DMIT: High Performance VM in DMIT.IO Cloud Infrastructure Services](https://www.dmit.io/)
   - [Pricing - DMIT](https://www.dmit.io/pages/pricing)
