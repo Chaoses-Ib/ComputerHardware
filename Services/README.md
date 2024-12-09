@@ -121,6 +121,8 @@ Dicussions:
   
       > A VPS must not use more than 50% of the allocated cores for more than 1 hour. E.g. if the client's VPS has 3 cores, they must not use more than 150% CPU for more than 1 hour at a time. There must be a break of at least 2 hours in between the 1 hour period. If the CPU usage is disruptive then we reserve the right to shutdown or suspend the VPS.
   - OS: Both Windows and Linux can be installed on our KVM plans. All OS options can be seen at checkout, custom ISOs can be uploaded within Virtualizor without the need to contact us.
+    - Linux images will install Lotserver (锐速) by default?
+    - 2021-10 [斯巴达西雅图的vps安装win后，中国方向没有速度。-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://hostloc.com/thread-905504-1-1.html)
   
     <details>
 
@@ -152,10 +154,12 @@ Dicussions:
 
   Data centers:
   - Seattle: AS4837, 180ms ([Looking Glass](http://lg.sea.spartanhost.net/))
-    - 晚高峰时仍然有部分地方会丢包，并且单线程下载只有 200KB/s
+    - 晚高峰时仍然有部分地方会丢包，并且单线程下载只有 20~200KB/s
     - DDoS: 20Gb, 200Gb $3/mo for dedicated server, $4/mo for VPS
+    - E5-2690v4, 7950X (formerly 5950X)
     - Wowrack
     - 2022-11 [spartanhost斯巴达vps真的那么好吗？简单测评下spartanhost的2022年黑五5.5折款VPS](https://www.zhujiceping.com/56441.html)
+    - 2022-12 [谁能解释下斯巴达。这种骚操作-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://hostloc.com/thread-1112963-1-1.html)
     - 2023-09 [spartanhost：斯巴达VPS还是一如既往的稳吗？西雅图机房2023年最新性能和网络等测评 | VPS测评](https://vpsceping.org/1270.html)
     - 2024-07 [斯巴达这几天不太稳定啊](https://www.nodeseek.com/post-130231-1)
     - 2024-08 [斯巴达西雅图好像线路优化了，不知道是不是暂时的](https://www.nodeseek.com/post-143638-1)
@@ -164,9 +168,11 @@ Dicussions:
     [\[CatServer\] 斯巴达西雅图优化线路VPS (5950X或EPYC 7502)](https://www.nodeseek.com/post-187249-1)
 
   - Dallas：Tb 级 DDoS 防护，但线路一般 ([Looking Glass](https://lg.dal.spartanhost.net/))
+    - E5-2690v4, 9950X
     - [斯巴达/抗攻击VPS/主要看看达拉斯的线路/达拉斯VPS测评 | 求VPS](https://www.qiuvps.com/1979.html)
 
   - Ashburn
+    - 9950X
     - 2024-11 [斯巴达-新上线阿什本机房AMD Ryzen 9950X](https://www.nodeseek.com/post-199344-1)
     - 2024-11 [【又测又评】性能怪兽，抗打巨人：斯巴达阿什本 9950X 4.8刀每月 现在还有货](https://www.nodeseek.com/post-200705-1)
       - > 西雅图以前之所以溢价高，是因为5年前优化线路资源是很稀缺的，toC的很少，价格也非常昂贵。现在都2025了，9929 cmin2 cn2gia一抓一大把，西雅图也就失去了溢价的基础了，性能上还比不过达拉斯和阿什本，达拉斯和阿什本可是有祖师爷级的高防。有些高价收了西雅图的或者希望能高价出西雅图的人肯定是会反对的
@@ -216,6 +222,10 @@ Dicussions:
   45.150.165.1
   2604:9cc0:0000:6b39:0000:0000:0000:0001/64
   ```
+
+  > 做站，然后用国内的bgp做cdn。我要的是斯巴达是性能和稳定性。我现在国内cdn去斯巴达西雅图是150-160ms。只要斯巴达和这台国内bgp互联速度好，全国都是利用国内服务器访问斯巴达，保证访问率的同时也保证了稳定性。我以前一开始，是用hk jp的cn2来做cdn，速度快起来，但还是有不少国内用户连不上。
+  >
+  > 斯巴达西雅图晚上炸啊。卡不说，我100个用户至少有几个打不开站点的，连通性也差。做站的应该都知道，斯巴达直连很渣，除非是单ip的站。
 
   Discussions:
   - 2019-11 [Spartan Host | ★DDoS Protected Seattle NVMe KVM BLACK FRIDAY 40% OFF !★ ▲$2.40/gb!▲|CNServers | Web Hosting Talk](https://www.webhostingtalk.com/showthread.php?t=1789252)
@@ -419,15 +429,17 @@ Dicussions:
   - Data centers: 10Gbps
     - SG: 230ms, 实际带宽较大
       - 电信部分地区丢包严重，移动大部分地区丢包严重
-    - JP: 150ms, no DDoS protection
+    - [JP](https://tyo.lg.speedypage.com/): 150ms, no DDoS protection
+      - 即使凌晨电信也丢包严重，联通少部分地区丢包
     - US
-      - Los Angeles: 200ms
-        - 联通少部分地区有 5~10% 的丢包，部分地区延迟存在波动
+      - [Los Angeles](https://la.lg.speedypage.com/): 200ms
+        - 联通大部分地区、移动部分地区有 5~10% 的丢包，部分地区延迟存在波动
         - 2023-11 [SpeedyPage 五折LA7950x测试](https://www.nodeseek.com/post-41252-1)
       - Ashburn: 250ms, 实际带宽较低
     - NL: 200ms, 实际带宽很差
     - UK: 250ms
     - AU: 500ms
+    - 网络性能恶化明显，可能存在大量超售
     - > 看段子的，有的段子丢的厉害，4开头那个用着还行，起码我感受不到丢包，新加坡不止一个段(也就联通移动还行，电信拉跨)
     - > 新加坡是真的烂，时不时爆炸，我的机器已经离线两天了
     - > 新加坡对移动不在那么友好了 v4绕 v6炸了
@@ -662,8 +674,9 @@ Dicussions:
 - [ZgoCloud](https://zgovps.com/)
   - 2023-07 [ZgoCloud 一点点购买建议](https://www.nodeseek.com/post-11476-1)
   - 2024-07 [不懂就问，ZgoCloud - Los Angeles AMD VPS - Specials - Lite 💰 $25.0 USD/Annually值得买吗](https://www.nodeseek.com/post-133953-1)
-  - Only [VDS](https://clients.zgovps.com/index.php?/cart/los-angeles-amd-vds/&step=0) supports Windows
+  - Only [VDS](https://clients.zgovps.com/index.php?/cart/los-angeles-amd-vds/&step=0) supports Windows, only Los Angeles has VDS
     - EPYC 7003, international network, no DDoS protection
+      - 12C24G 500G 2Gbps/20T $25/mo
 
 - [狗云：高性价比的云服务器](https://www.dogyun.com/)
   - 2024-07 [狗云 Dogyun 香港独服 阿里云线路 简单测试](https://www.nodeseek.com/post-137561-1)
