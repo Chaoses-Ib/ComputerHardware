@@ -3,6 +3,8 @@
   - [Benchmarking](Performance/Benchmarking.md)
 - Tools
   - [AIDA64](Tools/AIDA64.md)
+- [Brands](Brands/README.md)
+  - [ASUS](Brands/ASUS.md)
 
 ## [→Processors](https://github.com/Chaoses-Ib/FormalLanguages#processors)
 - [Graphics Processing Unit](Processors/Graphics/README.md)
