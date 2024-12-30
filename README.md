@@ -13,10 +13,7 @@
     - [Nvidia Titan](<Processors/Graphics/Brands/Nvidia Titan.md>)
   - [Cloud GPUs](Processors/Graphics/Cloud.md)
 
-## Memory
-- [Cache](Memory/Cache.md)
-- DDR SDRAM
-  - [DDR5 SDRAM](Memory/DDR%20SDRAM/DDR5%20SDRAM.md)
+## [→Memory](https://github.com/Chaoses-Ib/InformationSystems#memory-management)
 
 ## Storage
 - Analog Recording
