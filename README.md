@@ -7,6 +7,8 @@
   - [ASUS](Brands/ASUS.md)
 
 ## [→Processors](https://github.com/Chaoses-Ib/FormalLanguages#processors)
+- [x86](Processors/x86/README.md)
+- [Performance](Processors/Performance/README.md)
 - [Graphics Processing Unit](Processors/Graphics/README.md)
   - [Benchmark](Processors/Graphics/Benchmark.md)
   - [Brands](Processors/Graphics/Brands/README.md)
