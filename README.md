@@ -26,7 +26,7 @@
 ## I/O
 - [Universal Serial Bus](IO/USB/README.md)
 
-## Power
+## [Power](Power/README.md)
 - [Advanced Configuration and Power Interface](Power/ACPI.md)
 
 ## [Cooling](Cooling/README.md)
