@@ -48,6 +48,52 @@ Libraries:
 - General purpose GPU (GPGPU)
 - External GPU
 
+## Power
+Tools:
+- Nvidia: `nvidia-smi -pl 10`
+- AMD Software
+
+  > 这个选项会对绝大部分游戏起作用，但是在个别游戏中没啥用
+
+- MSI Afterburner: 电压曲线
+
+[请问显卡能不能调功耗？低功耗可以运行吗？ - 知乎](https://www.zhihu.com/question/606961473)
+
+[小白，宿舍限电，怎么限制显卡功耗，求教学? - 知乎](https://www.zhihu.com/question/593130883)
+
+[同志们，怎么限制CPU和显卡的功耗？ 178](https://nga.178.com/read.php?tid=32391017&_fp=2&rand=572)
+
+[开发机很少打游戏，怎么限制显卡功耗到最小？ - V2EX](https://cn.v2ex.com/t/1006796)
+
+## Multi-GPU
+[Can Integrated and Dedicated GPUs Work Together?](https://truehost.com/integrated-gpu-and-dedicated-gpu/)
+- Not for performance boost: Unfortunately, you can’t simply combine the power of your integrated and dedicated GPU to create a super-graphics powerhouse. They typically can’t work together to directly improve gaming performance or 3D rendering speeds.
+- Possible collaboration (sometimes): There are certain technologies and scenarios where your integrated GPU might work with your dedicated GPU. Here are a few instances:
+  - Multi-monitor support
+
+    > Some laptops enable using the integrated GPU to handle basic display output on secondary monitors while the dedicated GPU takes care of the demanding work on your main gaming display.
+
+    [双屏的最佳选择是核显加独显还是独显带双屏 NGA玩家社区](https://bbs.nga.cn/read.php?tid=31859058&rand=361)
+    > 独显接两个刷新率不一样的显示器会很卡，我是用核显接了副屏解决了，但是看论坛有人说这样更卡的，具体怎样还是得自己试
+
+    > 独显直连双屏，浏览器设置里关闭硬件加速。这样显卡满占用时，浏览器视频也不会卡
+
+    [求助 组双屏可以用主板的接口吗，显卡只有一个hdmi接口，我看主板上还有一个！ NGA玩家社区](https://ngabbs.com/read.php?tid=26108543&rand=484)
+
+  - Power saving
+
+    > Some technologies like Nvidia Optimus allow your system to intelligently switch between the dedicated GPU (for high-power tasks) and the integrated GPU (for everyday work) to conserve battery life on laptops.
+
+    [【成功降低功耗40W】台式机，同时启用独显+核显 - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2444696-1-1.html)
+
+  - Specific applications: Certain software applications might be able to offload specific graphics-related tasks to the integrated GPU. However, this is usually on a case-by-case basis.
+
+[\[硬件求助\] 到底如何实现核显、独显一起工作？快给整疯了，求助大佬！ 178](https://nga.178.com/read.php?tid=32612942&rand=325)
+
+[显示器连到主板上就会独显白买？该改变一下想法了\_显卡\_什么值得买](https://post.smzdm.com/p/awogw7v4/)
+
+[What happens If I use both integrated graphics from the CPU and a dedicated graphics card together? Will the screen work like this with techinaclly 2 gpus inside (the integrated and the dedicated) ??? : r/Amd](https://www.reddit.com/r/Amd/comments/kmaqao/what_happens_if_i_use_both_integrated_graphics/)
+
 ## API
 [GPU virtualization - Wikipedia](https://en.wikipedia.org/wiki/GPU_virtualization)
 
@@ -66,3 +112,11 @@ Libraries:
   [NVIDIA/cuda-python: CUDA Python Low-level Bindings](https://github.com/nvidia/cuda-python)
 
   为什么 stars 这么少？
+
+## Tools
+- AMD Software ([Wikipedia](https://en.wikipedia.org/wiki/AMD_Software), [PCGamingWiki](https://www.pcgamingwiki.com/wiki/AMD_Radeon_Software))
+  - Previously known as AMD Radeon Software, AMD Catalyst, and ATI Catalyst
+  - [AMD Software: Adrenalin Edition™ Application](https://www.amd.com/en/products/software/adrenalin.html)
+  - [AMD PRO Technologies](https://www.amd.com/en/products/processors/technologies/pro-technologies.html)
+  - Performance Overlay: `Ctrl+Shift+O`
+  - Can also install chipset drivers

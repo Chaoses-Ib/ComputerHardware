@@ -6,6 +6,13 @@
 - [GeForce GTX, RTX](https://en.wikipedia.org/wiki/GeForce "GeForce")
 - [Nvidia Titan](<Nvidia Titan.md>)
 - [Radeon HD, R5, R7, R9, RX, Vega and Navi series](https://en.wikipedia.org/wiki/Radeon "Radeon")
+  - HD 7850
+    - Power: 120W
+
+      [hd7850最低需要多大电源？ 178](https://nga.178.com/read.php?tid=19506331&rand=688)
+
+    [论一代神卡AMD 7850的极限 - 知乎](https://zhuanlan.zhihu.com/p/273815101)
+
 - [Radeon VII](https://en.wikipedia.org/wiki/Radeon_VII "Radeon VII")
 
 ## Cloud Gaming
