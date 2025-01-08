@@ -84,6 +84,16 @@ Features:
 
 [AMD 7900X及7950X装机配置方案推荐。主板搭配，散热选择，内存的选择。](https://www.zhihu.com/tardis/zm/art/569249522?source_id=1003)
 
+#### FL1
+- 铭凡 BD795M
+  - 7945HX
+  - M.2 *2, SATA *2
+
+  [铭凡 BD795M 主板国行开售：板载 AMD R9 7945HX 处理器，2299 元 - IT之家](https://www.ithome.com/0/820/789.htm)
+  > 比一颗 7950X 还便宜
+
+- Laptops
+
 ## CPU sockets
 [Wikipedia](https://en.wikipedia.org/wiki/CPU_socket)
 
@@ -103,8 +113,21 @@ AMD:
 
   [List of AMD Ryzen processors - Wikipedia](https://en.wikipedia.org/wiki/List_of_AMD_Ryzen_processors)
 
-  - AM5
+  - Zen 3+
+    - 6000 series
+      - AM4
+
+    - Mobile 6000 series
+      - 2022-01
+      - FP7
+      - GPU: RDNA2, 6/12 CU
+      - 6900HS: 8C16T, 12 CU
+
+  - Zen 4
     - 7000 series
+      - 2022-09
+      - AM5
+      - GPU: RDNA2, 2 CU
 
       [Need help deciding between 7900x and 7950x : r/buildapc](https://www.reddit.com/r/buildapc/comments/xpkdcf/need_help_deciding_between_7900x_and_7950x/)
 
@@ -117,6 +140,17 @@ AMD:
       [7900X功耗被限制在200W， - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2654840-1-1.html)
 
       [请问一下，为啥7900X与7950X都是相同170W功率，核数差4个？ - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2580053-1-1.html)
+
+    - Mobile 7045 series
+      - 2023-02
+      - FL1
+      - GPU: RDNA2, 2 CU
+      - 7945HX
+
+    - 8000 series
+      - 2024-01
+      - GPU: RDNA3, 4~12 CU
+      - 8700G: 8C16T, 12 CU
 
 Notes:
 - Release frequency: 1~1.5yr
@@ -157,5 +191,20 @@ Discussions:
   > 4. 搭配其他硬件贵。intel 13 代 14 代的 u 功耗和发热都比 amd 同级的大，主板已经比 amd 贵了，还得在散热和电源上加钱。
 
 - 2024-05 [Less talked about downsides/upsides of AMD over Intel in 2024? : r/buildapc](https://www.reddit.com/r/buildapc/comments/1d1r3u2/less_talked_about_downsidesupsides_of_amd_over/)
+
+- 2025-01 [目前装机，追求性价比的板 U 搭配应该是什么？ - V2EX](https://www.v2ex.com/t/1102884)
+
+  > 生产力需求可以往 intel 这边靠，intel 虽然最近问题比较大，但是繁荣时期在科学计算上还是建立了比较大的基础设施优势的，比起性能的那点些微差别，能让你省不少事。  
+  > 因为 mkl 我一直都是能 i 就 i 的，而且现在因为 a 的崛起，i 的性价比逐渐突出。  
+  > 如果生产力是游戏渲染那建议直接县城撕裂
+
+  > DDR5 在生产力方面还是有优势的，9000 系的提升主要在浮点，如果你用不到的话优先考虑 7700/12600KF
+
+  > intel 平台现在性价比是最低的  
+  > intel 的 12 13 14 代 cpu 虽然主板多，但是性能天花板 14600k 就到头了，从 14700 开始有缩缸蓝屏风险，有售后也赌不过啊，售后的时间也是成本  
+  > intel 15 代 u 265k 285k ，性能倒缩，而且一代主板一代 u ，更不值
+  > 
+  > 目前最高性价比是 AMD 7500f+ b650 主板，必须要核显的话那 9600x/9700x + b650 主板，目前价格也不贵  
+  > am5 平台未来两年还会继续有新 cpu 发布，cpu 性能天花板更高，未来几年只需要换个 u 就轻轻松松追上潮流了
 
 ## [→Performance](../Performance/README.md)
