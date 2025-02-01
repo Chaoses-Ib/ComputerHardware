@@ -127,6 +127,8 @@ AMD:
     - 7000 series
       - 2022-09
       - AM5
+      - Cache: L1 64 (32+32) KB, L2 1 MB
+      - TSMC N5
       - GPU: RDNA2, 2 CU
 
       [Need help deciding between 7900x and 7950x : r/buildapc](https://www.reddit.com/r/buildapc/comments/xpkdcf/need_help_deciding_between_7900x_and_7950x/)
@@ -151,6 +153,22 @@ AMD:
       - 2024-01
       - GPU: RDNA3, 4~12 CU
       - 8700G: 8C16T, 12 CU
+
+  - Zen 5
+    - 9000 series
+      - 2024-08
+      - Cache: L1 80 (48+32) KB, L2 1 MB (L1 +16 KB compared to Zen 4)
+      - TSMC N4 (while Zen 4 is N5)
+
+      [Ryzen 9 7950X vs. 9950X : r/buildapc](https://www.reddit.com/r/buildapc/comments/1fw7ypz/ryzen_9_7950x_vs_9950x/)
+
+      [9950x对比7950x 同样散热规格提升有没有30% - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2634721-1-1.html)
+
+      [感觉这一波7950x赢麻了。。 - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2625510-1-1.html)
+
+      [有没有专业搞生产力的来聊聊9950x相比7950x到底实际提升大不大？ - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2652583-1-1.html)
+
+      [9950X比7950X强在哪里？ - 硬件配置与采购 (Hardware Configuration and Procurement) - 计算化学公社](http://bbs.keinsci.com/thread-46125-1-1.html)
 
 Notes:
 - Release frequency: 1~1.5yr

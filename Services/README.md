@@ -157,7 +157,7 @@ Dicussions:
     - AS4837: 180ms ([Looking Glass](http://lg.sea.spartanhost.net/))
       - 晚高峰时仍然有部分地方会丢包，并且单线程下载只有 20~200KB/s
       - DDoS: 20Gb, 200Gb $3/mo for dedicated server, $4/mo for VPS
-      - E5-2690v4, 7950X (formerly 5950X)
+      - E5-2690v4, 7950X, 9950X (formerly 5950X)
       - Wowrack
       - 2022-11 [spartanhost斯巴达vps真的那么好吗？简单测评下spartanhost的2022年黑五5.5折款VPS](https://www.zhujiceping.com/56441.html)
       - 2022-12 [谁能解释下斯巴达。这种骚操作-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://hostloc.com/thread-1112963-1-1.html)
