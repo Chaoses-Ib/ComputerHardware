@@ -14,9 +14,12 @@
   - FS140
   - FC140：200~270元
     - TL-D14X + TL-C12 PRO-G
+    - TPC: 275W
     - 黑/白：220~310元
 
     [利民FC140散热器开箱快测，风冷要到极限了吗？\_CPU散热器\_什么值得买](https://post.smzdm.com/p/ar66q9lw/)
+
+    [FC140压默频13700KF足够把？ - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2451803-1-1.html)
 
     [利民FC140有推荐的风扇么？ - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2635469-1-1.html)
 

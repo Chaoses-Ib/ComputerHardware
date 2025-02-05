@@ -131,6 +131,8 @@ AMD:
       - TSMC N5
       - GPU: RDNA2, 2 CU
 
+      [AMD 锐龙5 7600X/锐龙9 7900X首发评测，超高频率能耗比也优秀\_CPU\_什么值得买](https://post.smzdm.com/p/akk09k6r/)
+
       [Need help deciding between 7900x and 7950x : r/buildapc](https://www.reddit.com/r/buildapc/comments/xpkdcf/need_help_deciding_between_7900x_and_7950x/)
 
       [Question - Is it really true that 7950x randomly shuts off whereas 7900x is fine? | Tom's Hardware Forum](https://forums.tomshardware.com/threads/is-it-really-true-that-7950x-randomly-shuts-off-whereas-7900x-is-fine.3779906/)
