@@ -9,6 +9,8 @@
 [CPU散热篇：2023年CPU散热器选购，风冷、水冷，只要这篇就够了😁😁\_散热器\_什么值得买](https://post.smzdm.com/p/akk032gk/)
 > 同价位，风冷的散热能力大于水冷，当然顶级水冷散热能力还是大于风冷的(360水冷>顶级风冷≈240水冷)。
 
+[似乎MSI真在主板BIOS里搞出了类似"一键降温"的功能... - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/forum.php?mod=viewthread&tid=2446910)
+
 ## Air coolers
 - 利民
   - FS140

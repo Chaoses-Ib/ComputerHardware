@@ -1,7 +1,7 @@
 # [Computer Hardware](Computer%20Hardware.md)
 - [Performance](Performance/README.md)
   - [Benchmarking](Performance/Benchmarking.md)
-- Tools
+- [Tools](Tools/README.md)
   - [AIDA64](Tools/AIDA64.md)
 - [Brands](Brands/README.md)
   - [ASUS](Brands/ASUS.md)
@@ -9,6 +9,7 @@
 ## [→Processors](https://github.com/Chaoses-Ib/FormalLanguages#processors)
 - [x86](Processors/x86/README.md)
 - [Performance](Processors/Performance/README.md)
+  - [Overclocking](Processors/Performance/Overclocking.md)
 - [Graphics Processing Unit](Processors/Graphics/README.md)
   - [Benchmark](Processors/Graphics/Benchmark.md)
   - [Brands](Processors/Graphics/Brands/README.md)

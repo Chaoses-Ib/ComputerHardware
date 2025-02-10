@@ -145,6 +145,8 @@ AMD:
 
       [请问一下，为啥7900X与7950X都是相同170W功率，核数差4个？ - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2580053-1-1.html)
 
+      [amd7900和7900x在不超频的情况性能差距大吗？ - 知乎](https://www.zhihu.com/question/579612910)
+
     - Mobile 7045 series
       - 2023-02
       - FL1
