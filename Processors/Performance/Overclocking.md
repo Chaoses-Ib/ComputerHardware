@@ -6,6 +6,7 @@
 [BIOS: Game Boost -> CPU? | MSI Global English Forum](https://forum-en.msi.com/index.php?threads/bios-game-boost-cpu.373168/)
 
 [Overclocking.xlsx](Overclocking.xlsx)
+- VBS
 
 ## AMD
 - Precision Boost
