@@ -1,6 +1,11 @@
 # Universal Serial Bus
 [Wikipedia](https://en.wikipedia.org/wiki/USB)
 
+[How does a USB keyboard work?](https://www.youtube.com/watch?v=wdgULBpRoXk)
+- Differential pair
+- NRZI data encoding
+- Bit stuffing
+
 [「快充头、快充线、视频线」如何选择，万字长文教你快速避坑 - 好物清单](https://www.qingdan.com/post/228979)
 
 ## Power
