@@ -111,7 +111,11 @@ AMD:
 
 - AMD
 
-  [List of AMD Ryzen processors - Wikipedia](https://en.wikipedia.org/wiki/List_of_AMD_Ryzen_processors)
+  [List of AMD processors - Wikipedia](https://en.wikipedia.org/wiki/List_of_AMD_processors)
+  - [List of AMD Ryzen processors - Wikipedia](https://en.wikipedia.org/wiki/List_of_AMD_Ryzen_processors)
+  - [Epyc - Wikipedia](https://en.wikipedia.org/wiki/Epyc#Fourth_generation_Epyc_(Genoa,_Bergamo_and_Siena))
+    - Last number is the generation
+    - Missing Y models?
 
   - Zen 3+
     - 6000 series
