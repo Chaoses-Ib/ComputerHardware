@@ -742,6 +742,9 @@ Dicussions:
 
 - [RackNerd: Introducing Infrastructure Stability](https://www.racknerd.com/)
   - Windows VPS: AMD Ryzen 3900X NVMe
+  - Data centers
+    - [Seattle](http://192.3.253.2/): 大部分地区丢包率 10% 左右
+      - Spartan Host Seattle: 4ms, 0.8Gbps+
   - 2024-09 [RN这家现在怎么样了，还稳定吗/](https://www.nodeseek.com/post-158691-1)
 
   ```md
@@ -816,6 +819,7 @@ Dicussions:
   Ashburn (Test IP: 107.173.166.10)
   Strasbourg, France (45.95.173.2)
   ```
+  [RackNerd：最便宜的美国VPS，$10/年起，Intel/AMD/Windows，支持一键切换IP](https://www.zhujiceping.com/50572.html)
 
 - [ZgoCloud](https://zgovps.com/)
   - 2023-07 [ZgoCloud 一点点购买建议](https://www.nodeseek.com/post-11476-1)
@@ -837,8 +841,10 @@ Dicussions:
     - > 好坏参半，国外产品基本上都很有性价比，国内一坨屎
   - 2024-09 [碳云 hk 使用起来怎么样啊，怎么那么便宜](https://www.nodeseek.com/post-158781-1)
 
-- CloudCone
+- [CloudCone](https://cloudcone.com.cn)
   - 2024-08 [\[只测不评\] CloudCone DC1 6C4G60GB 5TB/1Gbps SSD RAID-10](https://www.nodeseek.com/post-145022-1)
+
+  [CloudCone 美国洛杉矶高性价比便宜 VPS 最新优惠活动(2025年) - P3TERX ZONE](https://p3terx.com/archives/cheap-vps-cloudcone.html)
 
 - [CMIVPS](https://www.cmivps.com/)
   - Support Windows
