@@ -157,6 +157,7 @@ Dicussions:
   Data centers:
   - Seattle
     - AS4837: 180ms ([Looking Glass](http://lg.sea.spartanhost.net/))
+      - 去程电信联通北京出口，移动上海出口，回程上海联通
       - 上海联通 130ms
       - 晚高峰时仍然有部分地方会丢包，并且单线程下载只有 20~200KB/s
       - 阿里云北京 10MB/s+
