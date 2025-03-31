@@ -28,7 +28,28 @@
 
 Discussions:
 - 2024-10 [claw，阿里云，晚高峰，限流，没速度的，解决办法。](https://www.nodeseek.com/post-184914-1)
+
+  > 这款机器的底层是 ECS-e 系列，硬盘是 ESSD Entry, 硬盘规格是 IOPS=min{1,800+8\*容量, 6,000}，MB/s =min{100+0.15\*容量, 150}，所以硬盘性能就这样了
+  > 
+  > 以前的轻量底层是 ECS-n 系列，如 xn4.small, mn4.large(国内 306/月,2C4G4M SSD 那款),保底 IOPS 都有 3000
+  > 
+  > 实例型号可以在机器内访问  
+  > http://100.100.100.200/latest/meta-data/instance/instance-type
+  > 以获取
 - 2024-12 [理性购买使用阿里云 200M 宽带的轻量级服务器 - V2EX](https://v2ex.com/t/1100927)
+- 2024-12 [别冲阿里200M了，达量就限速](https://www.nodeseek.com/post-229026-1)
+- 2024-12 [阿里云 200Mbps 简单测速不严谨版-上海&广州 - V2EX](https://v2ex.com/t/1100674)
+
+  > 上海表现(总消耗流量 32.2GB,起步满速,后面大半程逐步降速到 26Mbps 左右)
+- 2024-12 [吐槽：阿里云国际HK 200M不限量，PS:吐槽失败-微主机评测](https://www.vpsv.net/2024/12/31/%E5%90%90%E6%A7%BD%EF%BC%9A%E9%98%BF%E9%87%8C%E4%BA%91%E5%9B%BD%E9%99%85hk-200m%E4%B8%8D%E9%99%90%E9%87%8F%EF%BC%8Cps%E5%90%90%E6%A7%BD%E5%A4%B1%E8%B4%A5/)
+- 2024-12 [\[更新\] 阿里云200M轻量应用服务器翻车！竟然是共享1Gbps带宽存在超限情况 -- 蓝点网](https://www.landiannews.com/archives/107317.html)
+- 2025-01 [简单测试了一下阿里云200M轻量限速的规则](https://www.nodeseek.com/post-243119-1)
+
+  > 大概前400Gb，能稳定200Mbps 但是一旦超过400G就会被限速20M
+  > 
+  > 香港的被我删了，就没图了 但是触发限速比东京的快，跑了350G左右就被限速20M  
+  > 所以猜测应该是带宽越充足的地区给的不限速流量越充足  
+  > 国内的没有测试，海外别的地区也没有测试，有测过的可以说说看，样本量较小
 
 ### Spyware
 - [one-click-installation-script/install\_scripts/dlm.sh](https://github.com/spiritLHLS/one-click-installation-script/blob/main/install_scripts/dlm.sh)
