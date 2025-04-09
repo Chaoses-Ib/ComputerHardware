@@ -15,7 +15,7 @@
 - 利民
   - FS140
   - FC140：200~270元
-    - TL-D14X + TL-C12 PRO-G
+    - TL-D14X + TL-C12 PRO-G, PWM
     - TPC: 275W
     - 黑/白：220~310元
 

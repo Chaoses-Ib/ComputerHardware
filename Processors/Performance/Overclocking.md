@@ -78,16 +78,35 @@
 [谈谈我对precision boost（PB2/XFR/PBO)的理解 - 哔哩哔哩](https://www.bilibili.com/opus/343115488349587669)
 
 History:
-- Zen 4
-  
-  [Ryzen 7900X overclocking? Is it worth it? : r/Amd](https://www.reddit.com/r/Amd/comments/z2yba4/ryzen_7900x_overclocking_is_it_worth_it/)
 
-  [Any settings you guys recommend for my 7900x system? Never overclocked anything in my life : r/Amd](https://www.reddit.com/r/Amd/comments/11k8bxm/any_settings_you_guys_recommend_for_my_7900x/)
-  > EXPO and fan curves set and everything else default. I did mess around with PBO for a while but all I was seeing was lower clock speeds, similar performance and general system instability. So, I went back to stock.
+### Zen 4
+[95C Ryzen 7000 is not the whole story. Here is what i found with these chips. : r/Amd](https://www.reddit.com/r/Amd/comments/xqsa2j/95c_ryzen_7000_is_not_the_whole_story_here_is/)
+> The way Ryzen 7000 operates seems to essentially be: run up to the temp limit and adjust clocks as needed without a hard throttle. More cooling is simply offset by higher clocks/performance at the same 95C (or 90C on lower models).
 
-  [Links to good o/c guides for ryzen 9 7900x? : r/overclocking](https://www.reddit.com/r/overclocking/comments/12o05yq/links_to_good_oc_guides_for_ryzen_9_7900x/)
+> 95C core temp is not (and never was) dangerous, the problem is that if your CPU was working at 95C a bad timed boost in power draw could send you over the actual limits, so the CPU boosting system needed to anticipate. This behavior just right before hitting thermal limits is what we call thermal throttling.
+> 
+> AMD has decided to change this design procedure, likely because with the newer manufacturing nodes base clocks could in theory be way higher, but thermal requirements would rise significantly. Instead of trying to create clock/thermal set points a priori, AMD has decided to create a series of CPUs that use temperature as the first control variable (not the third), that way they ensure the cooler is working at max efficiency and simplify the logic.
+> 
+> This means that you don’t really see thermal throttling with this gen, you see the CPUs scaling with temperature. In other words, there’s no “thermal wall” that suddenly tanks your performance. If you look at OPs data, you’ll see there’s no sudden gap in Cinebench scores, they just rise linearly with cooling capacity.
 
-  [\[作业贴\] 关于R9 7900X和ZEN4平台内存超频的一点心得(作业向) 178](https://nga.178.com/read.php?tid=39860811&rand=187)
+> Makes me think that the 95C target avoids a ton of heat-cycles, preventing premature degradation of the silicon? Might be a new issue they had to deal with considering how small transistors have become. Better to sit at 95C than to fluctuate hundreds of times per minute.
+
+- Doesn't that also mean your cooler is going to be running at full blast a lot more?
+
+  > with this 95C behavior you basically lose all fan control as how are you gonna do a fan curve when the chip just decides it wants to be 90C+ at high loads.
+
+  > I think its even easier now compared to before? As the chip targets 95 degrees out of the box, adjusting fan speed only affect core clock, not performance. If you want the best, crank the speed up, if not just leave it at you preferred noise level. And it only affect heavy professional workload, for gaming the temp is gonna be at least 20 degrees lower at stock.
+
+  [→Fan speed control](../../Cooling/Fans.md#speed-control)
+
+[Ryzen 7900X overclocking? Is it worth it? : r/Amd](https://www.reddit.com/r/Amd/comments/z2yba4/ryzen_7900x_overclocking_is_it_worth_it/)
+
+[Any settings you guys recommend for my 7900x system? Never overclocked anything in my life : r/Amd](https://www.reddit.com/r/Amd/comments/11k8bxm/any_settings_you_guys_recommend_for_my_7900x/)
+> EXPO and fan curves set and everything else default. I did mess around with PBO for a while but all I was seeing was lower clock speeds, similar performance and general system instability. So, I went back to stock.
+
+[Links to good o/c guides for ryzen 9 7900x? : r/overclocking](https://www.reddit.com/r/overclocking/comments/12o05yq/links_to_good_oc_guides_for_ryzen_9_7900x/)
+
+[\[作业贴\] 关于R9 7900X和ZEN4平台内存超频的一点心得(作业向) 178](https://nga.178.com/read.php?tid=39860811&rand=187)
 
 ## [Disadvantages](https://en.wikipedia.org/wiki/Overclocking#Disadvantages)
 > Nah, worst you could do is get a temporarily unstable cpu or in this case a one that consumes more power (that is unless you mess with the voltage too much). The default settings are with a considerable margin so that all samples achieve advertised clocks/TDP but in reality most of them can do slightly better.

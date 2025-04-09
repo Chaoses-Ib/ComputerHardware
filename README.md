@@ -31,6 +31,7 @@
 - [Advanced Configuration and Power Interface](Power/ACPI.md)
 
 ## [Cooling](Cooling/README.md)
+- [Computer Fans](Cooling/Fans.md)
 - [CPU cooling](Cooling/CPU.md)
 
 ## [→Human Interface Devices](https://github.com/Chaoses-Ib/PersonalComputing#human-interface-devices)
