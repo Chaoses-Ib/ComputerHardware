@@ -213,10 +213,12 @@ Dicussions:
       > 剩下10%就是做站，直连觉得差点意思可以升
 
   - Dallas：Tb 级 DDoS 防护，但线路一般 ([Looking Glass](https://lg.dal.spartanhost.net/))
+    - 少部分地区丢包
     - E5-2690v4, 9950X
     - [斯巴达/抗攻击VPS/主要看看达拉斯的线路/达拉斯VPS测评 | 求VPS](https://www.qiuvps.com/1979.html)
 
-  - Ashburn
+  - [Ashburn](https://lg.ash.spartanhost.net/)
+    - 电信少部分地区严重丢包
     - 9950X
     - 2024-11 [斯巴达-新上线阿什本机房AMD Ryzen 9950X](https://www.nodeseek.com/post-199344-1)
     - 2024-11 [【又测又评】性能怪兽，抗打巨人：斯巴达阿什本 9950X 4.8刀每月 现在还有货](https://www.nodeseek.com/post-200705-1)
