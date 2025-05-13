@@ -167,6 +167,7 @@ AMD:
       - 2024-08
       - Cache: L1 80 (48+32) KB, L2 1 MB (L1 +16 KB compared to Zen 4)
       - TSMC N4 (while Zen 4 is N5)
+      - [9950X](https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x.html)
 
       [Ryzen 9 7950X vs. 9950X : r/buildapc](https://www.reddit.com/r/buildapc/comments/1fw7ypz/ryzen_9_7950x_vs_9950x/)
 
@@ -177,6 +178,8 @@ AMD:
       [有没有专业搞生产力的来聊聊9950x相比7950x到底实际提升大不大？ - 电脑讨论(新) - Chiphell - 分享与交流用户体验](https://www.chiphell.com/thread-2652583-1-1.html)
 
       [9950X比7950X强在哪里？ - 硬件配置与采购 (Hardware Configuration and Procurement) - 计算化学公社](http://bbs.keinsci.com/thread-46125-1-1.html)
+    - Epyc
+      - [AMD EPYC™ 9965](https://www.amd.com/en/products/processors/server/epyc/9005-series/amd-epyc-9965.html)
 
 Notes:
 - Release frequency: 1~1.5yr

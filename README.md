@@ -1,4 +1,5 @@
 # [Computer Hardware](Computer%20Hardware.md)
+- [Monolithic Computers](Monolithic.md)
 - [Performance](Performance/README.md)
   - [Benchmarking](Performance/Benchmarking.md)
 - [Tools](Tools/README.md)
