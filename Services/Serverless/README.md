@@ -1,6 +1,52 @@
 # Serverless Computing
 [Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)
 
+## Network protocols
+- HTTP is generally supported
+- No one supports inbound TCP/UDP at the moment, though Cloudflare is planning for TCP
+- Outbound TCP and UDP are supported in some services
+- Cloudflare also supports inbound MQTT and SMTP
+
+Services:
+- AWS: HTTP, outbound TCP (except port 25) and UDP
+
+  [amazon web services - Can AWS Lambdas receive inbound TCP connections? - Stack Overflow](https://stackoverflow.com/questions/49019617/can-aws-lambdas-receive-inbound-tcp-connections)
+
+  [Do AWS Lambda functions allow outgoing TCP connections? : r/aws](https://www.reddit.com/r/aws/comments/uk4ogt/do_aws_lambda_functions_allow_outgoing_tcp/)
+
+- Azure
+  - Azure Functions: HTTP
+
+    [Trigger Azure Function with RAW TCP? : r/AZURE](https://www.reddit.com/r/AZURE/comments/12q9j5q/trigger_azure_function_with_raw_tcp/)
+
+    [Azure Functions networking options | Microsoft Learn](https://learn.microsoft.com/en-us/azure/azure-functions/functions-networking-options?tabs=azure-portal)
+
+    [How can I receive TCP messages using Azure Functions or Logic Apps? - Microsoft Q&A](https://learn.microsoft.com/en-us/answers/questions/1852581/how-can-i-receive-tcp-messages-using-azure-functio)
+  - Azure App Service: HTTP, WS
+
+    [How to receive TCP/IP communication to Azure App Service? - Microsoft Q&A](https://learn.microsoft.com/en-us/answers/questions/2145757/how-to-receive-tcp-ip-communication-to-azure-app-s)
+
+- [Cloudflare](https://developers.cloudflare.com/workers/reference/protocols/): HTTP (and HTTP/3), WS, outbound TCP, inbound MQTT, SMTP
+
+  [Announcing connect() --- a new API for creating TCP sockets from Cloudflare Workers](https://blog.cloudflare.com/workers-tcp-socket-api-connect-databases/)
+  > we plan to support inbound TCP and UDP connections, as well as new emerging application protocols based on QUIC, so that you can build applications beyond HTTP with [Socket Workers](https://blog.cloudflare.com/introducing-socket-workers/).
+
+  [serverless architecture - How does cloudflare workers support websockets but not Raw TCP? - Stack Overflow](https://stackoverflow.com/questions/78257027/how-does-cloudflare-workers-support-websockets-but-not-raw-tcp)
+
+  [Connect to databases - Cloudflare Workers docs](https://developers.cloudflare.com/workers/databases/connecting-to-databases/)
+
+- 阿里云: HTTP
+
+  [HTTP触发器调用函数 - 函数计算 - 阿里云](https://www.alibabacloud.com/help/zh/functioncompute/fc-3-0/user-guide/http-trigger-invoking-function)
+
+- 腾讯云: HTTP, WS, outbound TCP and UDP
+
+  [云函数 触发器概述\_腾讯云](https://cloud.tencent.com/document/product/583/9705)
+
+  [云函数 函数 URL 概述\_腾讯云](https://cloud.tencent.com/document/product/583/96099)
+
+  [云函数 网络相关问题 \_腾讯云](https://cloud.tencent.com/document/product/583/55718)
+
 ## AWS
 ### AWS Lambda
 [Lambda runtimes - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html)
