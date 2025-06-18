@@ -13,6 +13,9 @@ Forums:
 
 [一台服务器可以做什么？独服/VPS/VDS 超全使用指南！ - 空白的羽翼/博客](https://blog.blankwings.com/baka/how_to_use_servers-1.html)
 
+Network:
+- 2023-12 [分享一些最近收集的港区和美区优质线路ASN及上游关系、多地ping等（不定时补充）](https://www.nodeseek.com/post-46225-1)
+
 Dicussions:
 - 2015-12 [10 来个人，在一台服务器上处理视频，大概怎样的配置可以支撑呢？ - V2EX](https://origin.v2ex.com/t/244122)
 - 2021-03 [windows vps整理 - 大鸟笔记](https://www.daniao.org/12661.html)
@@ -825,6 +828,49 @@ Dicussions:
   Strasbourg, France (45.95.173.2)
   ```
   [RackNerd：最便宜的美国VPS，$10/年起，Intel/AMD/Windows，支持一键切换IP](https://www.zhujiceping.com/50572.html)
+
+- [RFCHost](https://www.rfchost.com/): 线路
+  - [Looking Glass](https://rfchost.com/lookingGlass)
+  - HK
+    - HKG-CMI
+      - 1.5TB $19, 2.5TB $39, 3.5TB $59
+
+      [RFCHost HKG3-Premium-Mini融合怪](https://www.nodeseek.com/post-77963-1)
+      > 电联去程CN2，移动CMI；回程三网CMI（隐藏回程）
+
+      [MJJ们，觉得RFCHost推出的新的香港套餐吸引力大么？](https://www.nodeseek.com/post-117328-1)
+    - HKG-T1
+
+      [【只测不评】RfcHost HK | Tier 1 International Optimization Network](https://www.nodeseek.com/post-195870-1)
+  - JP
+    - TYO-CO: 4837/CMI
+      - 电信友好；移动一般，可能不如 HKG-CMI
+      - 0.5TB $20, 1TB $30, 2TB $50
+
+      [【快讯】RFC JP CO 上架新套餐 & 创建了官方 TG 群](https://www.nodeseek.com/post-343902-1)
+
+      [【已出租】RFCHOST JP1 CO SP 三网优化路线](https://www.nodeseek.com/post-358400-1)
+    - TYO-T1
+
+      [【晚高峰+国际路由 详评】花卷 RFCHost JP T1 29.9$](https://www.nodeseek.com/post-243863-1)
+      > 晚高峰由于 IIJ->CN 骨干网拥塞，到电连有约 8% 的丢包，到移动稍好。全球方面，到部分节点也有可感丢包。延迟曲线波动较小，但广移的监测点明显是 Lumen 绕美了。Ping 曲线上，也是广移晚高峰有大幅波动。
+  - US
+    - GIA
+
+      [RFCHost 美西三网CN2GIA 流媒体解锁 VPS测评](https://www.nodeseek.com/post-104375-1)
+      > 前两年用过他家的香港CMI，隔三岔五停机，得在面板上手动开机，不知道什么原因
+
+  [\[搬运\]RFCHOST 打通 香港至日本的专线内网](https://www.nodeseek.com/post-333282-1)
+
+  [RFC真无敌啊，HK、JP、SG落地都这么极致](https://www.nodeseek.com/post-367794-1)
+
+  [买RFChost怎么感觉买错了](https://www.nodeseek.com/post-367648-1)
+
+  [【关于RFC的jinx】摊牌说](https://www.nodeseek.com/post-279889-1)
+  - [看你们收RFC HK JINX，怎么不考虑DMIT那个36刀的落地鸡](https://www.nodeseek.com/post-367677-1)
+
+  [RFCHOST 3折活动来了](https://www.nodeseek.com/post-367542-1)
+  - [RFCHOST HK一半开机要多久？怎么一直等待中？](https://www.nodeseek.com/post-367755-1)
 
 - [ZgoCloud](https://zgovps.com/)
   - 2023-07 [ZgoCloud 一点点购买建议](https://www.nodeseek.com/post-11476-1)
