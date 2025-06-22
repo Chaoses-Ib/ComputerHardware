@@ -76,6 +76,12 @@ Discussions:
 
 [阿里云 删除监控脚本](https://www.nodeseek.com/post-110037-1)
 
+Windows:
+- [Windows 一键DD脚本 包含阿里云专用 - zvv](https://zvv.me/z/2100.html)
+
+  > 阿里云因使用了特殊的驱动，DD安装Windows系统选择阿里云专用版。
+- [阿里云轻量dd，全球机友们，谁懂啊 - VPS综合讨论 - 全球主机交流论坛备用站 - HOSTLOC.NET](https://www.hostloc.net/thread-261532-1-1.html)
+
 ## 公网 IP
 - 分配公网 IP
   - 按流量计费 0.8元/G
@@ -96,3 +102,11 @@ Discussions:
 [阿里云ECS公网IP解决方案-CSDN博客](https://blog.csdn.net/lisan9/article/details/106610145)
 
 [一个没有公网IP的阿里云服务器可以做些什么？\_没有公网ip的云服务器可以干什么-CSDN博客](https://blog.csdn.net/m0_56123932/article/details/114826257)
+
+## 实例锁定
+- 锁定后仍可为磁盘创建快照，再通过快照创建自定义镜像，共享到其它账号
+  - 但只能共享到其它主账号
+
+[阿里云实例被锁定...](https://www.nodeseek.com/post-260947-1)
+
+[阿里云试用机被锁定了～-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://hostloc.com/thread-695232-1-1.html)
