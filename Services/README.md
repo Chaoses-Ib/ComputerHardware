@@ -9,6 +9,10 @@ Forums:
 - [NodeSeek](https://www.nodeseek.com/)
 - [梨园](https://forums.liyuans.com/)
 
+[2025年国内/国外高性价比VPS推荐 （自用、稳定、靠谱、便宜） - 文武科技柜](https://www.wangdu.site/bestvps)
+
+[\[小白入门科普\] 服务器行业黑话大全 持续更新中.......](https://www.nodeseek.com/post-1033-1)
+
 [全球主机监控](https://hostmonit.com/)
 
 [一台服务器可以做什么？独服/VPS/VDS 超全使用指南！ - 空白的羽翼/博客](https://blog.blankwings.com/baka/how_to_use_servers-1.html)
@@ -32,6 +36,20 @@ Dicussions:
   ![](images/README/VPS主机圈CPU性能天梯图.png)
 - 2024-09 [国外建站机，除了闪购斯巴达，还有其他推荐吗？](https://www.nodeseek.com/post-158630-1)
   - LayerHost, DMIT, netcup, ~~OVH~~
+
+## Management
+- WHMCS
+
+China:
+- [智简魔方idc运维管理系统-全智能IDC机房云服务器管理软件,主机管理系统,DCIM软件定制开发,运维管理软件服务商](https://www.idcsmart.com/index.html)
+  - 业务管理系统
+    - PHP + MySQL，开源
+  - 云平台管理系统
+    - “内存超售”
+  - 魔方DCIM系统
+  - 几十家小 IDC 用户
+- [Prokvm云服务器管理系统](https://www.xmbillion.com/)
+  - 魔方云对接
 
 ## Types
 ### Virtual private servers
@@ -886,12 +904,6 @@ Dicussions:
   - 2024-08 [【已秒出了】7折出狗云1300余额，另外出一台弹性CLD五折机](https://www.nodeseek.com/post-152731-1)
     - > MG机器老是掉线，我已经放弃了
 
-- [Coalcloud](https://www.coalcloud.net/)
-  - 2024-09 [炭云HK V2 IO，CPU性能几乎对半砍](https://www.nodeseek.com/post-156742-1)
-  - 2024-09 [突然心中好有一比：碳云像不像idc界中的拼爹爹](https://www.nodeseek.com/post-157765-1)
-    - > 好坏参半，国外产品基本上都很有性价比，国内一坨屎
-  - 2024-09 [碳云 hk 使用起来怎么样啊，怎么那么便宜](https://www.nodeseek.com/post-158781-1)
-
 - [CloudCone](https://cloudcone.com.cn)
   - 2024-08 [\[只测不评\] CloudCone DC1 6C4G60GB 5TB/1Gbps SSD RAID-10](https://www.nodeseek.com/post-145022-1)
 
@@ -914,18 +926,7 @@ Dicussions:
 
 [Azure vs AWS Pricing: Comparing Apples to Apples](https://bluexp.netapp.com/blog/azure-vs-aws-pricing-comparing-apples-to-apples-azure-aws-cvo-blg)
 
-### China
-- [阿里云](阿里云/README.md)
-- [火山引擎](火山引擎.md)
-- [→AutoDL](/Processors/Graphics/Cloud.md#china)
-  - 高性能机型、独服、国内网络、G口带宽、DDoS 防御
-  - AMD EPYC 9654 60G 50G 533元/月
-  - 无卡模式？
-  - [网络](https://www.autodl.com/docs/network/)
-    - > 由于独享IP和带宽的价格昂贵，为了减少您使用实例的成本和更加弹性的使用体验，AutoDL采用同地区的实例共享带宽方案，不对实例的网络带宽和流量进行单独计费。一个地区的带宽约为1~2Gbps，上下行带宽相等
-    - [开放端口](https://www.autodl.com/docs/port/)
-      - > 由于实例无独立公网IP，因此不能任意开启额外的端口。但是AutoDL为每个实例都预留了一个可对外暴露的端口，技术实现为将实例中的6006端口映射到公网可供访问的ip:port上，而ip:port可在「自定义服务」入口获取
-  - Linux-only
+### [→China](China.md)
 
 ### Japan
 - AWS
@@ -934,6 +935,11 @@ Dicussions:
 - Azure
 - Sakura
 - RCP 9929 $50/mo
+- [DreamCloud](https://whmcs.as211392.com/)
+
+  [DreamCloud - DigVPS - 专注VPS测评，总有一款服务器适合您！](https://digvps.com/review/dreamcloud)
+
+  [\[测评\] 618开抢-限量款年付12刀 三网低延迟直连国内国际双方向高防VPS 🪖DreamCloud-日本高防线路 IDC测评报告](https://www.nodeseek.com/post-364652-1)
 - [GreenCloud: Affordable KVM and Windows VPS](https://greencloudvps.com/)
   - AMD EPYC/Ryzen: Linux-only
 

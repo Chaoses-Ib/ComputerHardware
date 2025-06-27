@@ -50,6 +50,7 @@
   - [CI/CD](Services/Serverless/CICD/README.md)
 - [Amazon Web Services](Services/AWS/README.md)
 - [Microsoft Azure](Services/Azure/README.md)
+- [China Computing Services](Services/China.md)
 - [阿里云](Services/阿里云/README.md)
 - [腾讯云](Services/腾讯云.md)
 - [火山引擎](Services/火山引擎.md)
