@@ -7,7 +7,7 @@
 - [Brands](Brands/README.md)
   - [ASUS](Brands/ASUS.md)
 
-## [→Processors](https://github.com/Chaoses-Ib/FormalLanguages#processors)
+## [→Processors](https://github.com/Chaoses-Ib/Processors)
 - [x86](Processors/x86/README.md)
 - [Performance](Processors/Performance/README.md)
   - [Overclocking](Processors/Performance/Overclocking.md)
@@ -19,11 +19,7 @@
 
 ## [→Memory](https://github.com/Chaoses-Ib/InformationSystems#memory-management)
 
-## Storage
-- Analog Recording
-  - [Hard Disk Drives](Storage/Analog%20Recording/HDD/README.md)
-- [Read-Only Memory](Storage/ROM/README.md)
-  - [Solid-State Drives](Storage/ROM/SSD/README.md)
+## [→Storage](https://github.com/Chaoses-Ib/InformationSystems#storage)
 
 ## I/O
 - [Universal Serial Bus](IO/USB/README.md)
