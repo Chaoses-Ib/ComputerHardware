@@ -1,4 +1,4 @@
-# VMware
+# VMware Workstation
 [Wikipedia](https://en.wikipedia.org/wiki/VMware)
 
 - VMware Workstation
@@ -6,7 +6,9 @@
   - Size: ~1 GiB
 - VMware Workstation Player
   - Scoop: `scoop install vmware-workstation-player-np`
-- VMware ESXi
+- [VMware ESXi](../../Native/ESXi.md)
+
+[啊这？VMware Workstation虚拟机将从非开源代码转向上游KVM开源代码 -- 蓝点网](https://www.landiannews.com/archives/106380.html)
 
 ## VMware Workstation
 - 与 Device/Credential Guard 不兼容

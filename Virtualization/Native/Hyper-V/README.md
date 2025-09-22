@@ -2,6 +2,8 @@
 [Wikipedia](https://en.wikipedia.org/wiki/Hyper-V)
 - 2008-06
 
+[分享一下我用 hyper-v 做的 nas 服务器，非常稳定省心，模块化，懒人福音 - V2EX](https://www.v2ex.com/t/1099343)
+
 ## Installation
 [Install Hyper-V | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/get-started/install-hyper-v?pivots=windows-server)
 - Server Manager
