@@ -5,6 +5,8 @@ A **graphics processing unit (GPU)** is a specialized electronic circuit designe
 
 It is becoming increasingly common to use a **general purpose graphics processing unit (GPGPU)** as a modified form of stream processor (or a vector processor), running compute kernels.
 
+[显卡 - 超能网](https://www.expreview.com/product/vga)
+
 [^wiki]: [Graphics processing unit - Wikipedia](https://en.wikipedia.org/wiki/Graphics_processing_unit)
 
 ## Precision
@@ -40,6 +42,13 @@ Libraries:
 
 ### Tensor floats
 [Accelerating AI Training with NVIDIA TF32 Tensor Cores | NVIDIA Technical Blog](https://developer.nvidia.com/blog/accelerating-ai-training-with-tf32-tensor-cores/)
+
+## VRAM
+2023-04 [How much VRAM to get? : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/12ksaao/how_much_vram_to_get/)
+
+2024-10 [How much VRAM do you need for AI video generation. : r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/1gfug7r/how_much_vram_do_you_need_for_ai_video_generation/)
+
+2025-03 [What's the minimum system config to be able to create videos? : r/comfyui](https://www.reddit.com/r/comfyui/comments/1jkvh50/whats_the_minimum_system_config_to_be_able_to/)
 
 ## GPU forms
 - Dedicated graphics card

@@ -15,6 +15,7 @@
   - [Power](Processors/Graphics/Power.md)
   - [Benchmark](Processors/Graphics/Benchmark.md)
   - [Brands](Processors/Graphics/Brands/README.md)
+    - [Nvidia GeForce](<Processors/Graphics/Brands/Nvidia GeForce.md>)
     - [Nvidia Titan](<Processors/Graphics/Brands/Nvidia Titan.md>)
   - [Cloud GPUs](Processors/Graphics/Cloud.md)
 
