@@ -5,20 +5,18 @@
 
 [电脑电源计算器 | 电源 | MSI](https://www.msi.cn/power-supply-calculator)
 
-Brands:
-- GW-4000KS: 300W
-  - 12V: CPU 96W, GPU 132W
-
-  [长城ATX电源GW-4000KS洗澡 - 拆机乐园 数码之家](https://www.mydigit.cn/thread-14617-1-1.html)
-
-- [Cooler Master GX450](https://cooltechshopspot.com/products/cooler-master-gx450-450w-computer-switch-power-supply): 450W
-  - 12V: 408W
-
-  [COOLERMASTER 酷冷至尊 GX450电源：从一次红星故障事件说说电源的选购和电源的重要性\_电脑电源\_什么值得买](https://post.smzdm.com/p/527829/)
-
-  [【翼王|拆解评测】听说性价比电源偷换代工厂了？酷妈GX450再次测试\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1PW411e7pg/?vd_source=c718e48c05f47c06135428aa4a103c54)
-
 [\[硬件求助\] 微星B450M 迫击炮debug的CPU灯一直亮，开不了机，救命...\[已解决 是电源问题！\] 178 P1](https://nga.178.com/read.php?tid=18140149)
+
+[850W vs 1200W PSU : r/buildapc](https://www.reddit.com/r/buildapc/comments/177frj8/850w_vs_1200w_psu/)
+
+## ATX specification
+[ATX - Wikipedia](https://en.wikipedia.org/wiki/ATX#Power_supply)
+
+- ATX 3.0
+  - PCIe CEM 5.1
+    - 16-pin 12VHPWR connector
+- ATX 3.1
+  - Replace the 12VHPWR power connector with the 12V-2x6 power connector.
 
 ## CPU
 [CPU的8+4Pin接口需不需要插满？没插满会怎么样 -- FCPOWERUP极电魔方](https://www.fcpowerup.com/cpu-8pin-4pin-connector/)
@@ -26,6 +24,8 @@ Brands:
 [CPU双8pin供电只接一个8pin供电会不会出问题？ - 知乎](https://www.zhihu.com/question/533943141)
 
 [主板cpu供电4pin和8pin有什么区别？ - 知乎](https://www.zhihu.com/question/378138112)
+
+## [→GPU](../Processors/Graphics/Power.md)
 
 ## Multi-PSU
 [如何实现电脑双电源供电【图文】 - 知乎](https://zhuanlan.zhihu.com/p/149118166)

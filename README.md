@@ -12,6 +12,7 @@
 - [Performance](Processors/Performance/README.md)
   - [Overclocking](Processors/Performance/Overclocking.md)
 - [Graphics Processing Unit](Processors/Graphics/README.md)
+  - [Power](Processors/Graphics/Power.md)
   - [Benchmark](Processors/Graphics/Benchmark.md)
   - [Brands](Processors/Graphics/Brands/README.md)
     - [Nvidia Titan](<Processors/Graphics/Brands/Nvidia Titan.md>)
@@ -26,6 +27,7 @@
 
 ## [Power](Power/README.md)
 - [Advanced Configuration and Power Interface](Power/ACPI.md)
+- [Brands](Power/Brands.md)
 
 ## [Cooling](Cooling/README.md)
 - [Computer Fans](Cooling/Fans.md)

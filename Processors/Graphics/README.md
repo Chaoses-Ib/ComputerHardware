@@ -48,22 +48,7 @@ Libraries:
 - General purpose GPU (GPGPU)
 - External GPU
 
-## Power
-Tools:
-- Nvidia: `nvidia-smi -pl 10`
-- AMD Software
-
-  > 这个选项会对绝大部分游戏起作用，但是在个别游戏中没啥用
-
-- MSI Afterburner: 电压曲线
-
-[请问显卡能不能调功耗？低功耗可以运行吗？ - 知乎](https://www.zhihu.com/question/606961473)
-
-[小白，宿舍限电，怎么限制显卡功耗，求教学? - 知乎](https://www.zhihu.com/question/593130883)
-
-[同志们，怎么限制CPU和显卡的功耗？ 178](https://nga.178.com/read.php?tid=32391017&_fp=2&rand=572)
-
-[开发机很少打游戏，怎么限制显卡功耗到最小？ - V2EX](https://cn.v2ex.com/t/1006796)
+## [→Power](Power.md)
 
 ## Multi-GPU
 [Can Integrated and Dedicated GPUs Work Together?](https://truehost.com/integrated-gpu-and-dedicated-gpu/)
