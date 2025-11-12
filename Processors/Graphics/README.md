@@ -108,6 +108,9 @@ Libraries:
   为什么 stars 这么少？
 
 ## Tools
+- GPU-Z
+  - `scoop install gpu-z`
+
 - AMD Software ([Wikipedia](https://en.wikipedia.org/wiki/AMD_Software), [PCGamingWiki](https://www.pcgamingwiki.com/wiki/AMD_Radeon_Software))
   - Previously known as AMD Radeon Software, AMD Catalyst, and ATI Catalyst
   - [AMD Software: Adrenalin Edition™ Application](https://www.amd.com/en/products/software/adrenalin.html)
