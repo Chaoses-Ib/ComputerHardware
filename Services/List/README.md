@@ -1,8 +1,4 @@
-# Computing Services
-[Cloud computing - Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing), [Internet hosting service - Wikipedia](https://en.wikipedia.org/wiki/Internet_hosting_service)
-
-Also known as **cloud computing**.
-
+# Computing Service List
 [VPS商家评论频道](https://t.me/vps_reviews)
 
 Forums:
@@ -37,31 +33,7 @@ Dicussions:
 - 2024-09 [国外建站机，除了闪购斯巴达，还有其他推荐吗？](https://www.nodeseek.com/post-158630-1)
   - LayerHost, DMIT, netcup, ~~OVH~~
 
-## Management
-- WHMCS
-
-China:
-- [智简魔方idc运维管理系统-全智能IDC机房云服务器管理软件,主机管理系统,DCIM软件定制开发,运维管理软件服务商](https://www.idcsmart.com/index.html)
-  - 业务管理系统
-    - PHP + MySQL，开源
-  - 云平台管理系统
-    - “内存超售”
-  - 魔方DCIM系统
-  - 几十家小 IDC 用户
-- [Prokvm云服务器管理系统](https://www.xmbillion.com/)
-  - 魔方云对接
-
-## Types
-### Virtual private servers
-[Wikipedia](https://en.wikipedia.org/wiki/Virtual_private_server)
-
-### Dedicated Hosting Services
-[Wikipedia](https://en.wikipedia.org/wiki/Dedicated_hosting_service)
-
-> A dedicated hosting service, dedicated server, or managed hosting service is a type of Internet hosting in which the client leases an entire server not shared with anyone else.
-
-> There is also another level of dedicated or managed hosting commonly referred to as complex managed hosting. Complex managed hosting applies to both physical dedicated servers, hybrid server and virtual servers, with many companies choosing a hybrid (combination of physical and virtual) hosting solution.
-
+## Dedicated hosting services
 - [Hetzner: Dedicated Server, Cloud, Storage & Hosting](https://www.hetzner.com/)
   - [Datacenter](https://www.hetzner.com/unternehmen/rechenzentrum/)
     - [Falkenstein, Germany](http://116.202.99.88/)
@@ -401,9 +373,9 @@ China:
 
 ![](https://business.ntt-east.co.jp/content/cloudsolution/images/column/img_column374_2.png)
 
-- [AWS](AWS/README.md)
+- [AWS](../AWS/README.md)
 
-- [Azure](Azure/README.md)
+- [Azure](../Azure/README.md)
 
 - GCP
 

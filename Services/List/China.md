@@ -1,9 +1,9 @@
 # China Computing Services
-- [阿里云](阿里云/README.md)
-- [腾讯云](腾讯云.md)
+- [阿里云](../阿里云/README.md)
+- [腾讯云](../腾讯云.md)
 - 华为云
 - 京东云
-- [火山引擎](火山引擎.md)
+- [火山引擎](../火山引擎.md)
 - [UCloud优刻得](https://www.ucloud.cn/)
 - [快云](https://www.kuaiyun.cn/)
   - [快云抗D](https://www.kuaiyun.cn/antid)
